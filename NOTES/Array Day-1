@@ -1,0 +1,74 @@
+📦 What is an Array?
+An array is a collection of elements stored in a single variable, where all elements are of same type.
+🔸 Imagine ek train ke bogies – har bogie mein number (data) hai, aur sab ek line mein lage hain.
+
+🧠 Why use Array?
+✅ To store multiple values ​​(in one variable)
+✅ Fast access by index (like 0th, 1st, 2nd...)
+✅ Useful in loops, searching, sorting etc.
+________________________________________________________________________________________________________________________________________________________________
+
+IT'S IMPORTANT :....................................... 
+  Syntax in java
+  // Declare an array
+int[] marks = new int[5]; // 5 elements
+
+// OR directly initialize
+int[] marks = {90, 85, 77, 60, 95};
+
+// Access elements
+System.out.println(marks[0]);  // Output: 90
+___________________________________________________________________________________________________________________________________________________________________
+
+
+🛑 Note: Index 0 se start hota hai.
+
+Basics of Arrays in Java :
+
+🧠 Why use Arrays?
+Store many values without creating multiple variables
+Access elements easily using index
+Great for loops, calculations, and data processing
+__________________________________________________________________________________________________________________________________________________________________
+
+  
+  ✅ Array Declaration in Java
+int[] numbers;         // Step 1: Declare
+numbers = new int[5];  // Step 2: Allocate memory
+
+🧠 This creates an array that can store 5 integers.
+
+✅ Initialization (Assigning values)
+numbers[0] = 10;
+numbers[1] = 20;
+numbers[2] = 30;
+numbers[3] = 40;
+numbers[4] = 50;
+
+OR
+int[] numbers = {10, 20, 30, 40, 50};  // Declare + initialize
+
+🔎 Accessing Array Elements
+System.out.println(numbers[0]);  // Output: 10
+System.out.println(numbers[4]);  // Output: 50
+🛑 Remember: Indexing starts from 0
+
+🔁 Loop Through Array
+for (int i = 0; i < numbers.length; i++) {
+    System.out.println(numbers[i]);
+}
+
+OR
+  for (int num : numbers) {
+    System.out.println(num);   // Enhanced for loop
+}
+
+
+______________________________________________________________________________________________________________________________________________________________
+
+🧪 Beginner Practice Qustions:
+Print elements of an array.....
+Find max and min in array.....
+Calculate sum of elements.......
+Count how many numbers are even......
+
