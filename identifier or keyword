@@ -1,0 +1,52 @@
+🆔 What are Identifiers in Java?
+Identifiers are the names you give to variables, methods, classes, and more in your Java code.
+
+Basically, jo naam tum khud rakhti ho apne code ke parts ka — unhe identifiers kehte hain!
+
+Examples:
+public class Test
+{
+    public static void main(String[] args)
+    {
+        int a = 20;
+    }
+}
+
+
+In the above Java code, we have 5 identifiers as follows: 
+Test: Class Name
+main: Method Name
+String: Predefined Class Name
+args: Variable Name
+a: Variable Name
+
+Identifier = Naam
+Aapke code ke parts ka naam — jaise class ka naam, method ka naam, variable ka naam — sab identifiers hote hain.
+
+
+KEYWORD:
+Keywords are reserved words in Java jinka special meaning hota hai.
+Inhe as a name (identifier) use nahi kar sakte ❌
+
+Ye Java ke built-in commands hain — jaise traffic police ke signals 🚦
+
+EXAMPLE
+public class Hello {
+    public static void main(String[] args) {
+        int age = 22;
+        if (age > 18) {
+            System.out.println("Adult");
+        }
+    }
+}
+
+
+🟢 Here:
+public, class, int, if = keywords
+Hello, age, args = identifiers (humne rakha)
+
+
+🧃 Trick to Remember:
+Java keywords = jaise magic ke special words — jo sirf Java samajhta hai!
+Tum inka naam change nahi kar sakte — ye Java ke reserved seats hain! 🎯
+
