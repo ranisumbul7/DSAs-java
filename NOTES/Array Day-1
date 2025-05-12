@@ -71,4 +71,48 @@ Print elements of an array.....
 Find max and min in array.....
 Calculate sum of elements.......
 Count how many numbers are even......
+______________________________________________________________________________________________________________________________________________________________
+
+Array Properties in Java
+1. ✅ Fixed Size
+Once an array is created, its size cannot be changed.
+
+2. ✅ Indexed Access
+Array elements are accessed using indexes starting from 0.
+
+3. ✅ Same Data Type
+All elements in the array must be of the same type.
+
+4. ✅ Stored in Contiguous Memory
+Arrays are stored in continuous memory locations, so they allow fast access.
+
+5. ✅ Default Values
+If you create an array and don’t assign values, Java gives default values:
+
+6. ✅ .length Property
+To get the size of array (number of elements):
+
+7. ✅ Arrays are Objects in Java
+Arrays are actually objects, so you can use them with loops and methods.
+
+8. ✅ Can Store Objects Too
+You can store objects in an array, like this:
+__________________________________________________________________________________________________________________________________________________________________
+
+🧾 ✅ What is an Array Literal?
+An array literal lets you create an array and assign values directly at the same time, without using new keyword and without specifying size.
+
+
+✅ Syntax:
+int[] numbers = {10, 20, 30, 40, 50};
+
+here:
+int[] → array of integers
+{10, 20, 30, 40, 50} → array literal
+
+
+in simple language:
+Jab hum array banate waqt hi usme values daal dete hain, usse Array Literal kehte hain.
+📦 Yaani, array ko direct initialize kar dena — bina new keyword ka use kiye.
+
 
