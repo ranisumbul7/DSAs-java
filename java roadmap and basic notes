@@ -119,3 +119,63 @@ Java = Simple, Powerful & Everywhere!
 Agar coding ka hero banna hai, to Java ek perfect start hai 💪
 
 
+💼 What is Java Used For?
+Java is used to build powerful applications in many fields — from mobile to banking to big companies!
+
+🔥 1. Android App Development
+Java is one of the official languages for Android apps.
+📱 Examples: WhatsApp, Instagram, Paytm (earlier versions)
+
+🖥️ 2. Desktop Applications
+You can build full software apps that run on Windows/Mac.
+🛠️ Tools like: Eclipse, IntelliJ IDEA
+
+🌐 3. Web Applications (Backend)
+Java is widely used for backend development with frameworks like Spring Boot.
+🌍 Example: Banking websites, e-commerce apps, CRM software
+
+🏦 4. Banking and Enterprise Systems
+Java is super secure, so it’s trusted by banks and big companies.
+💸 Used by: ICICI Bank, HDFC, SBI, Infosys, TCS, etc.
+
+☁️ 5. Cloud Applications
+Java runs in cloud environments like AWS, Google Cloud, etc.
+☁️ Used for scalable apps, serverless functions
+
+🧠 6. Data Science / Big Data
+Java is used with Apache Hadoop, Spark, etc. for data processing.
+📊 Big companies use Java for analytics
+
+🎮 7. Game Development
+Java + LibGDX or jMonkeyEngine are used to build 2D/3D games.
+🎮 Example: Minecraft (originally made in Java)
+
+🔬 8. Embedded Systems / IoT
+Java is used in smart devices like TVs, washing machines, ATMs!
+📟 Java ME (Micro Edition) is used here.
+
+🎯 Final Line:
+Java is everywhere! It’s like the engine that powers the digital world — from your phone to your bank to your smart fridge! 😄
+
+
+📝 What is File Naming Convention in Java?
+Java file name = name of the public class inside it + .java extension
+✅ Basic Rules:
+1️⃣ File name must match the public class name
+
+2️⃣ Use PascalCase for class/file names
+Means: Each word starts with a capital letter
+✅ Examples:
+MyFirstProgram.java
+StudentDetails.java
+HelloWorld.java
+
+3️⃣ Avoid special characters
+❌ Don’t use: @, #, %, space, -
+✅ Use only letters, numbers, and underscores (if really needed — but better to use PascalCase).
+
+4️⃣ File extension must be .java
+For all Java source files, the extension must be .java
+
+
+
