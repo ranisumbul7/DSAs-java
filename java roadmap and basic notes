@@ -8,10 +8,103 @@
 
 
 Maths for DSA (Easy but useful!)
-
 ✔️ Prime numbers
 ✔️ GCD/LCM
 ✔️ Factorial
 ✔️ Power of 2
 ✔️ Number Systems (Binary, Decimal)
+
+
+3. Arrays
+✔️ Basic operations (insert, delete, search)
+✔️ Prefix Sum
+✔️ Sliding Window
+✔️ Kadane’s Algorithm
+✔️ 2D Arrays & Diagonal Traversal
+
+
+4. Strings
+✔️ Palindrome
+✔️ Anagram
+✔️ Character count using Hashing
+✔️ StringBuilder (for fast editing)
+
+
+📚 5. Recursion
+✔️ Base case + Recursive case
+✔️ Factorial, Fibonacci
+✔️ Backtracking basics (N-Queen, Rat in Maze)
+✔️ Subsets, Permutations
+
+🪟 6. Searching & Sorting
+✔️ Binary Search
+✔️ Lower/Upper Bound
+✔️ Bubble, Selection, Insertion, Merge, Quick Sort
+✔️ Sorting Comparisons
+
+
+🧺 7. Stacks & Queues
+✔️ Stack using Array/LinkedList
+✔️ Queue using Array/Circular
+✔️ Applications: Balanced Brackets, Next Greater Element
+
+
+ 8. Linked Lists
+✔️ Singly & Doubly
+✔️ Add/Delete Nodes
+✔️ Reverse LL (iterative & recursive)
+✔️ Detect Cycle (Floyd's Algo)
+
+
+🌲 9. Trees
+✔️ Binary Tree & Binary Search Tree (BST)
+✔️ Inorder, Preorder, Postorder
+✔️ Height, Diameter
+✔️ LCA (Lowest Common Ancestor)
+✔️ Tree Traversals (BFS/DFS)
+
+
+🔗 10. Graphs
+✔️ Representations: Adjacency List/Matrix
+✔️ BFS, DFS
+✔️ Dijkstra's Algo
+✔️ Topological Sort
+✔️ Disjoint Set Union (DSU)
+
+
+📊 11. Hashing & Maps
+✔️ HashSet, HashMap in Java
+✔️ Frequency count
+✔️ Map-based questions (2Sum, Group Anagrams)
+
+🧠 12. Greedy Algorithms
+✔️ Activity Selection
+✔️ Fractional Knapsack
+✔️ Huffman Encoding
+
+
+🧬 13. Dynamic Programming (DP)
+✔️ Fibonacci Memoization & Tabulation
+✔️ 0/1 Knapsack
+✔️ Longest Common Subsequence
+✔️ Longest Increasing Subsequence
+✔️ DP on Strings, Grids
+
+🧠 14. Bit Manipulation (for logic boost)
+✔️ Even/Odd using bits
+✔️ XOR tricks
+✔️ Swap using XOR
+✔️ Bitmasking (for DP+bits)
+
+
+😊🏁 Final Tip:
+“DSA is not about remembering solutions. It’s about learning how to think like a problem solver.” 💡
+
+1... What is Java?
+Java is a high-level, object-oriented, and platform-independent programming language.
+
+🔍 Simple Definition:
+Java ek programming language hai jisme hum apps, websites, games, and software bana sakte hain — aur ek baar code likh ke, kahin bhi chala sakte hain. 💻🌍
+
+
 
