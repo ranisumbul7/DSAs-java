@@ -1,0 +1,21 @@
+// first opp programming
+class Pizza {
+    String size;
+
+    void bake() {
+        System.out.println("Baking pizza");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Object creation
+        Pizza myPizza = new Pizza();
+        
+        // Set property
+        myPizza.size = "Large";
+
+        // Call method
+        myPizza.bake();  // Output: Baking pizza
+    }
+}
